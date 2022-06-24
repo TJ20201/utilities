@@ -1,0 +1,14 @@
+* {
+  font-family: monospace;
+}
+table, th, td {padding: 5px;border: 0.5ch solid #7777cc;border-radius:1ch;}th,td{border:0.35ch solid #444499;}
+
+#newRow {
+  width: 3.5ch; height: 3.5ch;
+  border-radius: 1.75ch;
+  font-family: sans-serif;
+  font-size: 4ch;
+  position: fixed;bottom:8px;right:8px;
+  background-color: #babaff;color:#222222;
+  border-color:#8787cc;
+}
