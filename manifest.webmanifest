@@ -1,0 +1,15 @@
+{
+  "name": "TJ20201/utilities",
+  "short_name": "Utilities",
+  "description": "Utilities created by TJ20201",
+  
+  "scope": "/utilities/",
+  "start_url": "/utilities/",
+  
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  
+  "display": "standalone",
+  
+  "icons": []
+}
