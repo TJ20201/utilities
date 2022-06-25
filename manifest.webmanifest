@@ -11,5 +11,11 @@
   
   "display": "standalone",
   
-  "icons": []
+  "icons": [
+   {
+    "src": "/utilities/icon.png",
+    "type": "image/png",
+    "sizes": "128x128"
+   }
+  ]
 }
