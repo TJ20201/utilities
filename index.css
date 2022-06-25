@@ -1,0 +1,4 @@
+* {
+  font-family: monospace;
+}
+table, th, td {padding: 5px;border: 0.5ch solid #7777cc;border-radius:1ch;}th,td{border:0.35ch solid #444499;}
